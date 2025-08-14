@@ -15,3 +15,8 @@
   from = "/usai-general-services-administration-artificial-intelligence-google-meta-anthropic-claude/"
   to = "/"
   status = 301
+
+[[redirects]]
+  from = "/usai-general-services-administration-artificial-intelligence-google-meta-anthropic-claude-eagleeye-ai-procurement-analytics-federal-agencies/"
+  to = "/"
+  status = 301
